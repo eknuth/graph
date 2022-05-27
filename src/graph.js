@@ -219,3 +219,5 @@ export class Rels {
     return result
   }
 }
+
+export default Graph
